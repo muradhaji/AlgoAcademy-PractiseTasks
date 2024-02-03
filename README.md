@@ -2,19 +2,19 @@
 
 ## Tapşırığın dizaynı və gərəkli faylları əldə etmək üçün
 
-1. Bu repository-ni öz kompüterinizə clone edin:
+1. Bu repository-ni öz kompüterinizə <code>clone</code> edin:
 
-- git clone https://github.com/muradhajiyev-algo/PractiseTasks.git
-
-<br />
-
-2. PractiseTasks qovluğuna daxil olun və Git Bash-i açın:
+- <code>git clone https://github.com/muradhajiyev-algo/PractiseTasks.git</code>
 
 <br />
 
-3. Lazım olan tapşırıq fayllarını əldə etmək üçün branch-ı dəyişin (branch adları "task-" ilə başlayır):
+2. PractiseTasks qovluğuna daxil olun və "Git Bash"-i açın:
 
-- git checkout task-3
+<br />
+
+3. Lazım olan tapşırıq fayllarını əldə etmək üçün <code>branch</code>-ı dəyişin (branch adları "task-" ilə başlayır):
+
+- <code>git checkout task-3</code>
 
 <br />
 
@@ -22,7 +22,7 @@
    │ ├── assets <br/>
    │ │ ├── fonts &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # Font faylları <br/>
    │ │ └── images &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # Şəkillər, iconlar və s. <br/>
-   │ ├── design &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # Dizayna aid şəkilləri <br/>
+   │ ├── design &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # Dizayna aid şəkillər <br/>
    └── style-guide.md &nbsp;&nbsp;&nbsp;&nbsp; # Əsas dizayn bələdçiniz (BreakPoints, Colors, HTML Content və s.) <br/>
 
 <br />
@@ -33,8 +33,8 @@
 
 <br />
 
-6. Tapşırığı işləyərkən code aralarında şərh yazmağı, git ilə commit yaratmağı və README.md faylı yaradıb açığlayıcı mətn yazmağı unutmayın.
+6. Tapşırığı işləyərkən kod aralarında şərh (comment) yazmağı, git ilə <code>commit</code> etməyi və "README.md" faylı yaradıb açığlayıcı mətn yazmağı unutmayın.
 
 <br />
 
-7. Tapşırığı bitirdikdə sonra commitlərinizi push etdiyinizdən əmin olun.
+7. Tapşırığı bitirdikdən sonra commitlərinizi <code>push</code> etdiyinizdən əmin olun.
