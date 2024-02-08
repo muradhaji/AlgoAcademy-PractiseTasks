@@ -4,17 +4,17 @@ const tasks = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12];
 
 const doneTasks = {
   Allahverdi: [4],
-  Eli: [4],
-  Emin: [4],
-  Fatime: [4],
+  Eli: [4, 8],
+  Emin: [4, 5],
+  Fatime: [4, 12],
   Isa: [4, 6],
-  Kenan: [4],
+  Kenan: [4, 2],
   Malik: [4, 5],
-  Mehemmed: [4],
+  Mehemmed: [4, 3],
   MehemmedEli: [4],
   Nureddin: [4],
-  Revan: [4],
-  Turan: [4],
+  Revan: [4, 7],
+  Turan: [],
   Terlan: [4, 1],
 };
 
@@ -47,7 +47,7 @@ for (const person in newTasks) {
 // 07.02.2024
 // Allahverdi 4
 // Eli 8
-// Emin 11
+// Emin 5
 // Fatime 12
 // Isa 6
 // Kenan 2
